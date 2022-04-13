@@ -12,9 +12,16 @@
   ],
   "author": "Santiago Rubiano <santiago.rubianom@gmail.com>",
   "license": "MIT",
-  "bin":{
-    "random-number": "./src/bin/global.js"
+  "bin": {
+    "random-number": "src/bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santiagorubiano/random-number.git"
+  },
+  "bugs": {
+    "url": "https://github.com/santiagorubiano/random-number/issues"
+  },
+  "homepage": "https://github.com/santiagorubiano/random-number#readme"
 }
-  
