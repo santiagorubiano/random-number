@@ -10,7 +10,7 @@ const messages =[
     "9",
     "10",
     "11",
-    "12"
+    "12",
 
 ]
 const randomN = () => {
